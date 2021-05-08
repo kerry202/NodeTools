@@ -1,0 +1,7 @@
+MVP模式
+
+View -> UI层 View接口 通过presenter通讯
+
+Presenter ->  业务层
+
+Model -> 数据源 model接口 数据给presenter  presenter在返回给view
